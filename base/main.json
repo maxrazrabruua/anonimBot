@@ -1,0 +1,23 @@
+{
+    "users": {},
+    "statistik": {},
+    "info": {},
+    "stata": {},
+    "modeAnon": {},
+    "admins": {
+        "speaker": [],
+        "helper": [],
+        "operator": [],
+        "promoter": [],
+        "host": []
+    },
+    "banned": [],
+    "dialogs": [],
+    "words": [
+        "огурец"
+    ],
+    "tChat": {},
+    "tDel": [],
+    "timeOfUserPing": 0,
+    "autoUnPinning": false
+}
