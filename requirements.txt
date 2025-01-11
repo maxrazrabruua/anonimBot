@@ -1,10 +1,1 @@
-Global:
- pyTelegramBotAPI
- json
- random
- time
- os
-Local:
- IBT_ai
- t
- My_Algoritms
+pyTelegramBotAPI
